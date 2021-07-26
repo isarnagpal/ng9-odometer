@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of ng9-odometer
+ */
+export * from './lib/ng9-odometer.component';
+export * from './lib/ng9-odometer.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25nOS1vZG9tZXRlci8iLCJzb3VyY2VzIjpbInB1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLDhCQUE4QixDQUFDO0FBQzdDLGNBQWMsMkJBQTJCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxyXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2Ygbmc5LW9kb21ldGVyXHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9saWIvbmc5LW9kb21ldGVyLmNvbXBvbmVudCc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL25nOS1vZG9tZXRlci5tb2R1bGUnO1xyXG4iXX0=
